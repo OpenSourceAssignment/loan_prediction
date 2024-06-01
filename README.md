@@ -5,5 +5,5 @@ The goal of this project is to build a web application that hosts a machine lear
 2. Select an interprter in VSCode by typing Ctrl + Shift + P 
 3. Update pip in the virtual environment by running the following command in the VS Code Terminal: python -m pip install --upgrade pip
 4. Install Django in the virtual environment by running the following command in the VS Code Terminal: python -m pip install django
-5.Install other libraries used in the project (using the same manner)
+5. Install other libraries used in the project (using the same manner)
 6. Run the app using the command: python manage.py runserver
